@@ -2,6 +2,6 @@
 
 Helps me learn more and increase my skills. 
 
-Project 1: [Whatsapp Analytics](whatsapp.html)
+Project 1: [Whatsapp Analytics](/whatsApp.html)
 
 Check them out!
